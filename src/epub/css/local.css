@@ -1,14 +1,56 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 body [xml|lang]{
 	font-style: italic;
 }
 
-i i{
+i i[xml|lang]{
 	font-style: normal;
 }
 
-abbr.era{
+abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
+}
+
+table{
+	margin: 1em;
+}
+
+table tbody{
+	font-variant-numeric: tabular-nums;
+}
+
+[epub|type~="bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+
+p span.i1{
+	padding-left: -2em;
+	text-indent: 1em;
 }
