@@ -14,10 +14,6 @@ abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
-table{
-	margin: 1em;
-}
-
 table tbody{
 	font-variant-numeric: tabular-nums;
 }
@@ -53,4 +49,117 @@ footer{
 p span.i1{
 	padding-left: -2em;
 	text-indent: 1em;
+}
+
+table{
+	border-collapse: collapse;
+	font-variant-numeric: tabular-nums;
+	margin: 1em auto;
+}
+
+td,
+th{
+	padding: .5em;
+}
+
+th{
+	text-align: center;
+}
+
+table tbody th,
+table tfoot th{
+	font-weight: normal;
+	text-align: initial;
+}
+
+#chapter-5-2 * + td,
+#chapter-5-3 * + td,
+#appendix table:nth-of-type(2) tbody td{
+	text-align: right;
+	vertical-align: bottom;
+	white-space: nowrap;
+}
+
+#chapter-5-3 tfoot th,
+#appendix tfoot th{
+	font-weight: bold;
+	text-align: right;
+}
+
+tfoot * + td,
+.subtotal * + td{
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+}
+
+#chapter-1-11 * + td,
+#chapter-1-11 td:first-child,
+#appendix td{
+	text-align: right;
+	white-space: nowrap;
+}
+
+#chapter-1-11 table:first-of-type colgroup,
+#appendix table:first-of-type col + col,
+#appendix table:first-of-type col + colgroup{
+	border-left: 1px solid;
+}
+
+#chapter-1-11 thead tr + tr th{
+	border-bottom: 1px solid;
+}
+
+#chapter-1-11 tbody th,
+#chapter-1-11 thead tr + tr th + th,
+#appendix thead tr + tr th{
+	font-weight: bold;
+	text-align: right;
+}
+
+#chapter-1-11 tr.subtotal th,
+#endnotes table:nth-of-type(1) td,
+#endnotes table:nth-of-type(2) td{
+	text-align: right;
+}
+
+#chapter-1-11 td[rowspan]{
+	vertical-align: middle;
+}
+
+#chapter-1-11 tr.year-start th ~ td{
+	border-top: 1px dashed;
+}
+
+#chapter-1-11 tr.year-start td[rowspan],
+#chapter-1-11 tr.year-end td{
+	border-bottom: 1px dashed;
+}
+
+#chapter-1-11 table:nth-of-type(2) tbody th:first-child,
+#chapter-1-11 table:nth-of-type(3) tbody th:first-child{
+	border-right: 1px solid;
+}
+
+#chapter-1-11 table:nth-of-type(2) tbody tr.subtotal td:first-child,
+#chapter-1-11 table:nth-of-type(3) tbody tr.subtotal td:first-child{
+	border-right: none;
+}
+
+#appendix table tbody td[colspan="6"],
+#appendix table:last-of-type thead tr + tr th{
+	text-align: center;
+}
+
+#appendix .subtotal * + td{
+	border: none;
+}
+
+#appendix tr.subtotal th ~ td{
+	border-bottom: 1px solid;
+	border-top: none;
+}
+
+#appendix table:last-of-type td,
+#appendix table:last-of-type th{
+	border: 1px solid;
 }
