@@ -100,8 +100,7 @@ tfoot * + td,
 }
 
 #chapter-1-11 table:first-of-type colgroup,
-#appendix table:first-of-type col + col,
-#appendix table:first-of-type col + colgroup{
+#appendix table:first-of-type colgroup + colgroup{
 	border-left: 1px solid;
 }
 
