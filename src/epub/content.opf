@@ -42,7 +42,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>https://oll.libertyfund.org/title/smith-an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-cannan-ed-in-2-vols</dc:source>
 		<dc:source>https://www.google.com/books/edition/An_Inquiry_Into_the_Nature_and_Causes_of/ogs_AQAAMAAJ</dc:source>
 		<meta property="se:production-notes">Cannan's Preface has not been included because it makes various claims about the spelling which are no longer accurate for this SE edition, and mostly describes other print-only details like page headers and numbering.</meta>
