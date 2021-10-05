@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-10-05T23:09:21Z</dc:date>
+		<meta property="dcterms:modified">2021-10-05T23:09:21Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,16 +38,18 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Adam Smith’s foundational text of classical economics.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Wealth of Nations&lt;/i&gt; is economist &lt;a href="https://standardebooks.org/ebooks/adam-smith"&gt;Adam Smith’s&lt;/a&gt; magnum opus and the foundational text of what today we call classical economics. Its publication ushered in a new era of thinking and discussion about how economies function, a sea change away from the older, increasingly-irrelevant mercantilist and physiocratic views of economics towards a new practical application of economics for the birth of the industrial era. Its scope is vast, touching on concepts like free markets, supply and demand, division of labor, war, and public debt. Its fundamental message is that the wealth of a nation is measured not by the gold in the monarch’s treasury, but by its national income, which in turn is produced by labor, land, and capital.&lt;/p&gt;
+			&lt;p&gt;It took Smith over a decade to write, and is the product of almost two decades of notes, study, and discussion. It was released to glowing praise, selling out its first print run in just six months and going through five subsequent editions and countless reprintings in Smith’s lifetime. It began inspiring legislature almost immediately and continued to do so well into the 1800s, and influenced thinkers ranging from &lt;a href="https://standardebooks.org/ebooks/alexander-hamilton_john-jay_james-madison"&gt;Alexander Hamilton&lt;/a&gt; to &lt;a href="https://standardebooks.org/ebooks/karl-marx_friedrich-engels"&gt;Karl Marx&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;Today, it is the second-most-cited book in the social sciences that was published before 1950, and its legacy as a foundational text places it in the stratosphere of civilization-changing books like &lt;i&gt;Principia Mathematica&lt;/i&gt; and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species"&gt;The Origin of Species&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://oll.libertyfund.org/title/smith-an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-cannan-ed-in-2-vols</dc:source>
 		<dc:source>https://www.google.com/books/edition/An_Inquiry_Into_the_Nature_and_Causes_of/ogs_AQAAMAAJ</dc:source>
 		<meta property="se:production-notes">Cannan's Preface has not been included because it makes various claims about the spelling which are no longer accurate for this SE edition, and mostly describes other print-only details like page headers and numbering. Page references in the endnotes have been converted to the first paragraph on the corresponding print page, so they may not be 100% accurate.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">394357</meta>
+		<meta property="se:reading-ease.flesch">50.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Wealth_of_Nations</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/adam-smith_the-wealth-of-nations</meta>
 		<dc:creator id="author">Adam Smith</dc:creator>
