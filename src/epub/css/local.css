@@ -108,6 +108,7 @@ tfoot * + td,
 }
 
 #chapter-1-11 tbody th,
+#chapter-1-11 tfoot th,
 #chapter-1-11 thead tr + tr th + th,
 #appendix thead tr + tr th{
 	font-weight: bold;
