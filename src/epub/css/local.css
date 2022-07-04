@@ -18,10 +18,6 @@ abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
-table tbody{
-	font-variant-numeric: tabular-nums;
-}
-
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
