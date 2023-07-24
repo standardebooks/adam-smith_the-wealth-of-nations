@@ -67,6 +67,11 @@ table tfoot th{
 	text-align: initial;
 }
 
+#chapter-5-2 thead th,
+#chapter-5-3 thead th{
+	text-align: right;
+}
+
 #chapter-5-2 * + td,
 #chapter-5-3 * + td,
 #appendix table:nth-of-type(2) tbody td{
@@ -157,4 +162,8 @@ tfoot * + td,
 #appendix table:last-of-type td,
 #appendix table:last-of-type th{
 	border: 1px solid;
+}
+
+#note-1014 table td[colspan="6"]{
+	text-align: center;
 }
