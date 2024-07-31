@@ -6,10 +6,4 @@
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
-	<file path="endnotes.xhtml">
-		<ignore>
-			<code>t-005</code>
-			<reason>Matched text is not a typo.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
