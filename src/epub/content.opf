@@ -49,7 +49,7 @@
 		<dc:source>https://oll.libertyfund.org/title/smith-an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-cannan-ed-in-2-vols</dc:source>
 		<dc:source>https://www.google.com/books/edition/An_Inquiry_Into_the_Nature_and_Causes_of/ogs_AQAAMAAJ</dc:source>
 		<meta property="se:production-notes">Cannan's Preface has not been included because it makes various claims about the spelling which are no longer accurate for this SE edition, and mostly describes other print-only details like page headers and numbering. Page references in the endnotes have been converted to the first paragraph on the corresponding print page, so they may not be 100% accurate.</meta>
-		<meta property="se:word-count">394357</meta>
+		<meta property="se:word-count">394119</meta>
 		<meta property="se:reading-ease.flesch">50.3</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Wealth_of_Nations</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/adam-smith_the-wealth-of-nations</meta>
