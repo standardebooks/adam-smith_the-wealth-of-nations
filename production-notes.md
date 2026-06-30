@@ -1,0 +1,1 @@
+Cannan's Preface has not been included because it makes various claims about the spelling which are no longer accurate for this SE edition, and mostly describes other print-only details like page headers and numbering. Page references in the endnotes have been converted to the first paragraph on the corresponding print page, so they may not be 100% accurate.
