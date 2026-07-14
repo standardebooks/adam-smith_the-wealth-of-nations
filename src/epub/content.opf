@@ -33,7 +33,7 @@
 		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="fulltitle">An Inquiry Into The Nature and Causes Of The Wealth Of Nations</dc:title>
 		<meta property="file-as" refines="#fulltitle">Inquiry Into The Nature and Causes Of The Wealth Of Nations, An</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Economics</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85040850</meta>
