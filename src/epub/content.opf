@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations</dc:identifier>
 		<dc:date>2021-10-05T23:09:21Z</dc:date>
@@ -40,12 +40,12 @@
 		<meta property="schema:genre">Philosophy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">Adam Smith lays the foundation of classical economics.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Adam Smith lays the foundation of classical economics.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Wealth of Nations&lt;/i&gt; is economist &lt;a href="https://standardebooks.org/ebooks/adam-smith"&gt;Adam Smith’s&lt;/a&gt; magnum opus and the foundational text of what today we call classical economics. Its publication ushered in a new era of thinking and discussion about how economies function, a sea change away from the older, increasingly irrelevant mercantilist and physiocratic views of economics towards a new practical application of economics for the birth of the industrial era. Its scope is vast, touching on concepts like free markets, supply and demand, division of labor, war, and public debt. Its fundamental message is that the wealth of a nation is measured not by the gold in the monarch’s treasury, but by its national income, which in turn is produced by labor, land, and capital.&lt;/p&gt;
 			&lt;p&gt;Some ten years in the writing, &lt;i&gt;The Wealth of Nations&lt;/i&gt; is the product of almost two decades of notes, study, and discussion. It was released to glowing praise, selling out its first print run in just six months and going through five subsequent editions and countless reprintings in Smith’s lifetime. It began inspiring legislators almost immediately and continued to do so well into the 1800s, and influenced thinkers ranging from &lt;a href="https://standardebooks.org/ebooks/alexander-hamilton_john-jay_james-madison"&gt;Alexander Hamilton&lt;/a&gt; to &lt;a href="https://standardebooks.org/ebooks/karl-marx_friedrich-engels"&gt;Karl Marx&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;Today, it is the second-most-cited book in the social sciences that was published before 1950, and its legacy as a foundational text places it in the stratosphere of civilization-changing books like &lt;i&gt;Principia Mathematica&lt;/i&gt; and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species"&gt;The Origin of Species&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://oll.libertyfund.org/title/smith-an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-cannan-ed-in-2-vols</dc:source>
 		<dc:source>https://www.google.com/books/edition/An_Inquiry_Into_the_Nature_and_Causes_of/ogs_AQAAMAAJ</dc:source>
