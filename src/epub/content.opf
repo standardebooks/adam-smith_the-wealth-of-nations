@@ -61,15 +61,15 @@
 		<link href="https://id.loc.gov/authorities/names/n80032761.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="editor">Edwin Cannan</dc:contributor>
+		<meta property="file-as" refines="#editor">Cannan, Edwin</meta>
+		<link href="https://en.wikipedia.org/wiki/Edwin_Cannan" refines="#editor" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n80001176.html" refines="#editor" rel="schema:sameAs"/>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="editor">Edwin Cannan</dc:contributor>
-		<meta property="file-as" refines="#editor">Cannan, Edwin</meta>
-		<link href="https://en.wikipedia.org/wiki/Edwin_Cannan" refines="#editor" rel="schema:sameAs"/>
-		<link href="https://id.loc.gov/authorities/names/n80001176.html" refines="#editor" rel="schema:sameAs"/>
 		<dc:contributor id="artist">Canaletto</dc:contributor>
 		<meta property="file-as" refines="#artist">Canaletto</meta>
 		<meta property="schema:alternateName" refines="#artist">Giovanni Antonio Canal</meta>
