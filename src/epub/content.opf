@@ -49,7 +49,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://oll.libertyfund.org/title/smith-an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-cannan-ed-in-2-vols</dc:source>
 		<dc:source>https://www.google.com/books/edition/An_Inquiry_Into_the_Nature_and_Causes_of/ogs_AQAAMAAJ</dc:source>
-		<meta property="schema:wordCount">394119</meta>
+		<meta property="schema:wordCount">394111</meta>
 		<meta property="schema:educationalLevel">50.3</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Wealth_of_Nations" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
